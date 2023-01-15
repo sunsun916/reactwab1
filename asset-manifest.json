@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactwab1/static/css/main.f06489b8.css",
+    "main.js": "/reactwab1/static/js/main.5de9a506.js",
+    "static/media/an-img.jpg": "/reactwab1/static/media/an-img.bfafcf29fc041dc2ad25.jpg",
+    "static/media/bn-img.jpg": "/reactwab1/static/media/bn-img.ec8101f02d00834d05fc.jpg",
+    "index.html": "/reactwab1/index.html",
+    "main.f06489b8.css.map": "/reactwab1/static/css/main.f06489b8.css.map",
+    "main.5de9a506.js.map": "/reactwab1/static/js/main.5de9a506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06489b8.css",
+    "static/js/main.5de9a506.js"
+  ]
+}
